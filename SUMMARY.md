@@ -18,5 +18,5 @@
   - [gird组件](./configure/gird.md)
   - [axis组件](./configure/axis.md)
   - [geo组件](./configure/geo.md)
-  - [tooltip组件](./configure/tooltip.md)
   - [visualMap组件](./configure/visualMap.md)
+  - [tooltip组件](./configure/tooltip.md)
