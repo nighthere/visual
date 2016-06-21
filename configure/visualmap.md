@@ -1,2 +1,0 @@
-# visualMap组件
-
