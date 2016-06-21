@@ -3,7 +3,7 @@
 * [introdution](README.md)
 * 可视化库的设计
    * [设计原则](design/principles.md)
-   * [设计目的](design/motivationmd.md)
+   * [设计目的](design/motivation.md)
 * API接口与事件
    * [API接口](api/interface.md)
    * [图表事件](api/evnet.md)
