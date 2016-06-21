@@ -13,4 +13,6 @@
    * [geo组件](configure/geo.md)
    * [visualMap组件](configure/visualmap.md)
    * [tooltip组件](configure/tooltip.md)
-
+* 图表高级设置
+   * [何时需要对图表进行高级设置](./advance/why.md)
+   * [如何对图表高级设置](./advance/howto.md)
