@@ -5,5 +5,6 @@
    * [设计原则](design/principlesmd.md)
    * [设计目的](design/motivationmd.md)
 * API接口与事件
-  * 
+  * [API接口](./api/interface.md)
+  * [图表事件](./api/evnet.md)
 
