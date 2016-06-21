@@ -6,7 +6,7 @@
    * [设计目的](design/motivation.md)
 * API接口与事件
    * [API接口](api/interface.md)
-   * [图表事件](api/evnet.md)
+   * [图表事件](api/event.md)
 * 图表实例与配置
    * [gird组件](configure/gird.md)
    * [axis组件](configure/axis.md)
