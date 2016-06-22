@@ -1,0 +1,22 @@
+# Summary
+
+* [introdution](README.md)
+* 可视化库的设计
+   * [设计原则](design/principles.md)
+   * [设计目的](design/motivation.md)
+* API接口与事件
+   * [API接口](api/interface.md)
+   * [图表事件](api/event.md)
+* 图表实例与配置
+   * 组件参数配置
+      * [gird组件](configure/components/gird.md)
+      * [axis组件](configure/components/axis.md)
+      * [geo组件](configure/components/geo.md)
+      * [visualMap组件](configure/components/visualmap.md)
+      * [tooltip组件](configure/components/tooltip.md)
+   * 图表的series配置
+      * [柱状图](configure/series/bar.md)
+      * [折线图](configure/series/line.md)
+* 图表高级设置
+   * [何时需要对图表进行高级设置](./advance/why.md)
+   * [如何对图表高级设置](./advance/howto.md)
