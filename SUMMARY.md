@@ -17,6 +17,7 @@
    * 图表的series配置
       * [柱状图](configure/series/bar.md)
       * [折线图](configure/series/line.md)
+      * [蒙板图](configure/series/tickbar.md)
 * 图表高级设置
    * [何时需要对图表进行高级设置](./advance/why.md)
    * [如何对图表高级设置](./advance/howto.md)
